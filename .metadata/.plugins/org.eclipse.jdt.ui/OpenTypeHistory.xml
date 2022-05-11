@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=ToDoApp/C:\/Users\/HP\/.m2\/repository\/org\/springframework\/spring-webmvc\/4.3.13.RELEASE\/spring-webmvc-4.3.13.RELEASE.jar&lt;org.springframework.web.servlet.view(InternalResourceViewResolver.class[InternalResourceViewResolver" modifiers="33" timestamp="1652106781570"/>
+<typeInfo handle="=ToDoApp/C:\/Users\/HP\/.m2\/repository\/org\/springframework\/spring-jdbc\/4.3.13.RELEASE\/spring-jdbc-4.3.13.RELEASE.jar&lt;org.springframework.jdbc.datasource(DriverManagerDataSource.class[DriverManagerDataSource" modifiers="33" timestamp="1652158194050"/>
+<typeInfo handle="=ToDoApp/C:\/Users\/HP\/.m2\/repository\/org\/springframework\/spring-orm\/4.3.13.RELEASE\/spring-orm-4.3.13.RELEASE.jar&lt;org.springframework.orm.hibernate4(LocalSessionFactoryBean.class[LocalSessionFactoryBean" modifiers="33" timestamp="1652158193440"/>
+<typeInfo handle="=ToDoApp/C:\/Users\/HP\/.m2\/repository\/org\/hibernate\/hibernate-core\/4.1.5.Final\/hibernate-core-4.1.5.Final.jar&lt;org.hibernate.dialect(MySQL5Dialect.class[MySQL5Dialect" modifiers="33" timestamp="1652158332392"/>
+<typeInfo handle="=ToDoApp/C:\/Users\/HP\/.m2\/repository\/org\/springframework\/spring-orm\/4.3.13.RELEASE\/spring-orm-4.3.13.RELEASE.jar&lt;org.springframework.orm.hibernate4(HibernateTemplate.class[HibernateTemplate" modifiers="33" timestamp="1652158193440"/>
+<typeInfo handle="=ToDoApp/C:\/Users\/HP\/.m2\/repository\/org\/springframework\/spring-orm\/4.3.13.RELEASE\/spring-orm-4.3.13.RELEASE.jar&lt;org.springframework.orm.hibernate4(HibernateTransactionManager.class[HibernateTransactionManager" modifiers="33" timestamp="1652158193440"/>
+</typeInfoHistroy>
